@@ -4,10 +4,6 @@
 #include <string>
 #include <array>
 
-Rps::Rps()
-{
-}
-
 void Rps::Start()
 {
     std::cout << "Rock, paper scissors !" << std::endl;

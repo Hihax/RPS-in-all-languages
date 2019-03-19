@@ -11,7 +11,6 @@ private:
     std::array<std::string, 3> m_choices = { "Rock", "Paper", "Scissors" };
 
 public:
-    Rps();
     void Start();
     void Verify();
     std::string Randomize();
